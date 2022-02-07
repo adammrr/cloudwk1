@@ -1,7 +1,7 @@
 {
   "name": "week-1",
   "version": "1.0.0",
-  "description": "test node application",
+  "description": "test node application yes",
   "main": "test.js",
   "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1",
